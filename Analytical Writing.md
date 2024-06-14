@@ -17,13 +17,13 @@ The Analytical Writing section assesses your critical thinking and analytical wr
    - You should identify the strengths and weaknesses of the argument, considering the evidence provided and its logical coherence.
    - This task assesses your ability to understand, analyze, and evaluate arguments and to communicate your analysis effectively in writing.
 
-#### Issue Task
+### Issue Task
 
 The Issue Task of the Analytical Writing section evaluates your ability to think critically about a topic of general interest and express your thoughts clearly and persuasively. Here’s a detailed breakdown of what to expect and how to approach this task:
 
 - **Prompt**:
   - You will be presented with a statement or claim on a broad topic. These topics could range from technology, education, and politics to culture, society, and more.
-  - The prompt will typically ask you to agree or disagree with the statement and to justify your position with reasons and examples.
+  - The prompt will typically ask you **to agree or disagree with** the statement and to justify your position with reasons and examples.
 
 - **Task**:
   - Develop a position on the issue. You can either agree or disagree with the statement, or you can present a nuanced position that acknowledges both sides but leans towards one.
