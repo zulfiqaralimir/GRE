@@ -1,4 +1,7 @@
 ### Analytical Writing
+*Analytical Writing**: This section assesses your ability to articulate complex ideas clearly and effectively, examine claims and accompanying evidence, support ideas with relevant reasons and examples, and sustain a coherent discussion. It consists of two tasks:
+   - **Issue Task**: You are presented with a general statement or claim and asked to provide your perspective on the issue.
+   - **Argument Task**: You evaluate a given argument according to specific instructions.
 
 The Analytical Writing section assesses your critical thinking and analytical writing skills. It consists of two tasks:
 
