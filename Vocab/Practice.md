@@ -7,5 +7,3 @@ I **abstained** (restrained oneself from doing something) from my usual after-sc
 I decided to help her because I knew how important this exam was for her future, and I had a good grasp of the subject matter. Also, Sarah is a good friend, and I wanted to support her during a challenging time.
 
 As a result of our study sessions, Sarah became much more confident in her abilities. She started to understand the concepts that had previously been difficult for her, and she was able to solve problems more easily. On the day of the exam, she felt well-prepared and, in the end, she passed with flying colors. She was very grateful for my help, and it made me feel good to know that I had made a positive difference in her academic journey.
-![Uploading image.png…]()
-
