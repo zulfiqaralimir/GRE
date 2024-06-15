@@ -1,1 +1,1 @@
-## [Dawn]](https://www.dawn.com/opinion))
+## [Dawn]](https://www.dawn.com/opinion)
