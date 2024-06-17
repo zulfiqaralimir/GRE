@@ -4,6 +4,6 @@
 
 **Antonyms**: tiny, petite, minuscule, diminutive, miniature, compact, puny
 ## Change
-**Synonyms**: Alteration, Metamorphosis, Conversion, Innovation, Transition, Revolution, Transmutation, Transformation, Variation, Modification, Adjustment
+**Synonyms**: Alteration, <u>Metamorphosis </u>, Conversion, Innovation, Transition, Revolution, Transmutation, Transformation, Variation, Modification, Adjustment
 
 **Antonyms**: Constancy, Stability, Continuity, Permanence, Persistence, Preservation, Invariability, Rigidity, Immutable, Static
